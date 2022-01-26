@@ -7,12 +7,14 @@ It aims to centralise and streamline MC collection from army personnel within mi
 
 This platform enables the personnel to submit their details, as well as a document of their medical certification. These entries can then be viewed, edited, and deleted.
 
-### Acknowledgements and Disclaimer:
+### Acknowledgement and Disclaimer:
 This project was adapted from a coded-along to the following [Vue-Laravel online tutorial](https://youtu.be/2gUezppbcNI). 
 
-No code was provided by the tutorial itself. All code where replicated had been done so manually, after understanding each step.
+No code was provided by the tutorial itself. All code where replicated have been done so manually, after gaining an understanding into each step of the web app.
 
-To demonstrate this project is a learning process towards proficiency in Vue and Laravel, its stylings has been deliberately kept identical to the online tutorial.
+Since this project is a learning process towards proficiency in Vue and Laravel, its stylings have been kept identical to the source online tutorial. 
+
+For a project where I have made original inputs to website styling, please visit the OurSGHeritage website clone, where I renovated [OurSGHeritage's website](https://github.com/jrenjiaqi/OurSGHeritage-Govtech-Website-Clone).
 
 ## Demonstration of CRUD Functionality
 https://user-images.githubusercontent.com/98270848/150815960-912f5a5c-bb2a-4358-b7a2-39c0bdd971e3.mp4
