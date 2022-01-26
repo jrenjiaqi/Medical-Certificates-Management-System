@@ -12,9 +12,7 @@ This project was adapted from a coded-along to the following [Vue-Laravel online
 
 No code was provided by the tutorial itself. All code where replicated have been done so manually, after gaining an understanding into each step of the web app.
 
-Since this project is a learning process towards proficiency in Vue and Laravel, its stylings have been kept identical to the source online tutorial. 
-
-For a project where I have made original inputs to website styling, please visit the OurSGHeritage website clone, where I renovated [OurSGHeritage's website](https://github.com/jrenjiaqi/OurSGHeritage-Govtech-Website-Clone).
+For a project where I have made original inputs to website styling, please visit the [OurSGHeritage website clone](https://github.com/jrenjiaqi/OurSGHeritage-Govtech-Website-Clone), where I renovated [OurSGHeritage's website](https://www.oursgheritage.gov.sg/)
 
 ## Demonstration of CRUD Functionality
 https://user-images.githubusercontent.com/98270848/150815960-912f5a5c-bb2a-4358-b7a2-39c0bdd971e3.mp4
